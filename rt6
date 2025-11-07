@@ -1,0 +1,1 @@
+ -y qemu-kvm virt-manager libvirt-daemon-system virtinst libvirt-clients bridge-utils
